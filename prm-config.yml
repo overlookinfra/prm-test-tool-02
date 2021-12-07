@@ -1,0 +1,7 @@
+---
+plugin:
+  author: test-user
+  id: test-tool-2
+  display: Test Tool 2
+  version: 0.1.0
+  upstream_project_url: https://github.com/puppetlabs/prm-test-tool-2/
